@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-    'law basket melody coast will napkin maid desert unlock hard helmet tell',
+    '',
     'https://rinkeby.infura.io/nl2iHmjjvK9AQGn1Kr0t'
 );
 
